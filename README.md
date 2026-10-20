@@ -1,4 +1,4 @@
 # akrit-123
 This is my first Git Repository.
 <br>
-Author - Akrit Singh
+Author - Akrit Singh (123)
